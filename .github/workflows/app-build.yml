@@ -11,9 +11,9 @@ jobs:
         runs-on: ${{ matrix.platform }}
         steps:
             - uses: actions/checkout@v3
-            - uses: pnpm/action-setup@v2.0.1
+            - uses: pnpm/action-setup@v2.2.4
               with:
-                  version: 6.32.2
+                  version: 8.3.0
             - name: setup node
               uses: actions/setup-node@v3
               with:
