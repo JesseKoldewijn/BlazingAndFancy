@@ -1,5 +1,5 @@
 [package]
-name = "blazing_and_fancy"
+name = "blazing-and-fancy"
 version = "0.0.1"
 description = "A blazingly fast react.js + tauri app"
 authors = ["you"]
