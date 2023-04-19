@@ -1,5 +1,5 @@
 {
-	"name": "blazing-and-fancy",
+	"name": "blazing_and_fancy",
 	"description": "High performant React.js (TypeScript) + Tauri (Rust) native crossplatform application.",
 	"private": true,
 	"version": "0.0.1",
